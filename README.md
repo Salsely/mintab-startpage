@@ -2,8 +2,6 @@
 
 _A minimal, elegant, easy to configure startpage._
 
-![MinTab screenshot](screenshot.png)
-
 
 ## Features
 

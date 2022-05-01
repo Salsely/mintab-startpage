@@ -1,5 +1,5 @@
 const CONFIG = {
-  hour12  : false
+  hour12  : true
 }
 
 const ICONS = [
@@ -14,28 +14,20 @@ const ICONS = [
   {
     icon: "ri-reddit-fill",
     link: "https://www.reddit.com/"
-  },
-  {
-    icon: "ri-github-fill",
-    link: "https://www.github.com/"
   }
 ]
 
 const LIST_ITEMS = [
   {
-    name: "music",
-    link: "https://music.youtube.com"
+    name: "r/satan",
+    link: "https://www.reddit.com/r/satan/"
   },
   {
-    name: "netflix",
-    link: "https://www.netflix.com/"
+    name: "r/libertarianunity",
+    link: "https://www.reddit.com/r/libertarianunity/"
   },
   {
-    name: "r/unixporn",
-    link: "https://www.reddit.com/r/unixporn/"
-  },
-  {
-    name: "r/firefoxcss",
-    link: "https://www.reddit.com/r/firefoxcss/"
-  },
+    name: "r/linuxmasterrace",
+    link: "https://www.reddit.com/r/linuxmasterrace/"
+  }
 ]
